@@ -27,6 +27,8 @@ Author: The Kernel Panic
 
 **OSX Chrome Harvester** is a tool designed to silently extract and decrypt saved Chrome passwords from macOS systems. It leverages the macOS Keychain for decryption and transmits the retrieved credentials to a Command-and-Control (C2) server.
 
+Medium Blog Post: [Building OSX Chrome Harvester](https://medium.com/@piyushbhor22/building-osx-chrome-harvester-26513e1cdc3a)
+
 ### Features
 
 - Extracts saved Chrome passwords on macOS systems.
@@ -137,3 +139,4 @@ The tool sends data in the following structure:
 ### License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Piyush-Bhor/osx-chrome-harvester?tab=MIT-1-ov-file) file for details.
+
